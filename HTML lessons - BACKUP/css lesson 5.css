@@ -1,0 +1,26 @@
+/*CSS FOR JAVASCRIPT LESSON 1*/
+
+#red{
+	float: left;
+	height: 300px;
+	width: 300px;
+	margin: 100px 30px;
+	border: 1px solid black;
+}
+
+#blue{
+	float: left;
+	height: 300px;
+	width: 300px;
+	margin: 100px 30px;
+	border: 1px solid black;
+}
+
+#green{
+	float: left;
+	height: 300px;
+	width: 300px;
+	margin: 100px 30px;
+	border: 1px solid black;
+}
+

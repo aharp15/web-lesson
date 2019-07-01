@@ -1,0 +1,22 @@
+/*CSS LESSON 1*/
+
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+#section1{
+	background-color: black;
+	
+}
+
+ul{
+	margin: 5px 20px;
+	float: left;
+	list-style-type: none;
+	padding: 0;
+	background-color: blue;
+	height: 100px;
+	width: 1250px;
+}
+

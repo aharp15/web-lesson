@@ -1,0 +1,39 @@
+/*CSS FOR HTML/JAVASCRIPT LESSON 2*/
+p{
+	text-align: center;
+}
+
+#HW{
+	font-size: 80px;
+	margin: 30px 320px;
+}
+
+#red{
+	float: left;
+	height: 300px;
+	width: 300px;
+	margin: 100px 30px;
+	border: 1px solid red;
+	border-radius: 50%;
+	background-color: red;
+}
+
+#blue{
+	float: left;
+	height: 300px;
+	width: 300px;
+	margin: 100px 30px;
+	border: 1px solid blue;
+	border-radius: 50%;
+	background-color: blue;
+}
+
+#green{
+	float: left;
+	height: 300px;
+	width: 300px;
+	margin: 100px 30px;
+	border: 1px solid green;
+	border-radius: 50%;
+	background-color: green;
+}
